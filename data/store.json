@@ -1,0 +1,485 @@
+{
+  "products": [],
+  "orders": [],
+  "saleRecords": [
+    {
+      "id": "TRX874585",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "14 Sept 2026",
+      "time": "02:01:14 pm",
+      "reference": "INV-874586",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX823738",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "25 Sept 2026",
+      "time": "12:13:43 pm",
+      "reference": "INV-823739",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX702551",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "14 Sept 2026",
+      "time": "01:58:22 pm",
+      "reference": "INV-702553",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX680678",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "14 Sept 2026",
+      "time": "01:58:00 pm",
+      "reference": "INV-680679",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX546212",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "10 Sept 2026",
+      "time": "11:02:26 am",
+      "reference": "INV-546213",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX529971",
+      "customer": "Walk-in customer",
+      "amount": 45022,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "14 Sept 2026",
+      "time": "02:28:49 pm",
+      "reference": "INV-529982",
+      "items": [
+        {
+          "id": 2,
+          "name": "Running Shoes",
+          "quantity": 1,
+          "price": 45000,
+          "total": 45000
+        },
+        {
+          "id": 1789034570034,
+          "name": "dsdf",
+          "quantity": 1,
+          "price": 22,
+          "total": 22
+        }
+      ]
+    },
+    {
+      "id": "TRX515483",
+      "customer": "Walk-in customer",
+      "amount": 95000,
+      "paymentMethod": "Card",
+      "status": "Completed",
+      "date": "14 Sept 2026",
+      "time": "01:38:35 pm",
+      "reference": "INV-515484",
+      "items": [
+        {
+          "id": 2,
+          "name": "Running Shoes",
+          "quantity": 1,
+          "price": 45000,
+          "total": 45000
+        },
+        {
+          "id": 3,
+          "name": "Backpack",
+          "quantity": 2,
+          "price": 25000,
+          "total": 50000
+        }
+      ]
+    },
+    {
+      "id": "TRX513116",
+      "customer": "Walk-in customer",
+      "amount": 156,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "02 Oct 2026",
+      "time": "11:55:13 am",
+      "reference": "INV-513117",
+      "items": [
+        {
+          "id": 1790938198298,
+          "name": "Dell Suppliesd",
+          "quantity": 3,
+          "price": 4,
+          "total": 12
+        },
+        {
+          "id": 1790938223781,
+          "name": "Dell Supplies",
+          "quantity": 12,
+          "price": 12,
+          "total": 144
+        }
+      ]
+    },
+    {
+      "id": "TRX487426",
+      "customer": "Walk-in customer",
+      "amount": 287778,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "25 Sept 2026",
+      "time": "12:08:07 pm",
+      "reference": "INV-487438",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        },
+        {
+          "id": 3,
+          "name": "Backpack",
+          "quantity": 1,
+          "price": 25000,
+          "total": 25000
+        },
+        {
+          "id": 5,
+          "name": "Water Bottle",
+          "quantity": 1,
+          "price": 12000,
+          "total": 12000
+        },
+        {
+          "id": 1789390287333,
+          "name": "justin",
+          "quantity": 1,
+          "price": 778,
+          "total": 778
+        }
+      ]
+    },
+    {
+      "id": "TRX357238",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "14 Sept 2026",
+      "time": "01:52:37 pm",
+      "reference": "INV-357239",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX341355",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "14 Sept 2026",
+      "time": "01:52:21 pm",
+      "reference": "INV-341356",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX323940",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "14 Sept 2026",
+      "time": "01:52:03 pm",
+      "reference": "INV-323941",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX285204",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "25 Sept 2026",
+      "time": "12:38:05 pm",
+      "reference": "INV-285214",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX276920",
+      "customer": "Walk-in customer",
+      "amount": 48,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "02 Oct 2026",
+      "time": "11:51:16 am",
+      "reference": "INV-276921",
+      "items": [
+        {
+          "id": 1790938223781,
+          "name": "Dell Supplies",
+          "quantity": 4,
+          "price": 12,
+          "total": 48
+        }
+      ]
+    },
+    {
+      "id": "TRX264783",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "25 Sept 2026",
+      "time": "12:37:44 pm",
+      "reference": "INV-264792",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX189494",
+      "customer": "Walk-in customer",
+      "amount": 100,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "05 Oct 2026",
+      "time": "10:56:29 am",
+      "reference": "INV-189535",
+      "items": [
+        {
+          "id": 1,
+          "name": "Visibility Test Product",
+          "quantity": 1,
+          "price": 100,
+          "total": 100
+        }
+      ]
+    },
+    {
+      "id": "TRX160297",
+      "customer": "Walk-in customer",
+      "amount": 100,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "05 Oct 2026",
+      "time": "10:56:00 am",
+      "reference": "INV-160321",
+      "items": [
+        {
+          "id": 1,
+          "name": "Visibility Test Product",
+          "quantity": 1,
+          "price": 100,
+          "total": 100
+        }
+      ]
+    },
+    {
+      "id": "TRX156240",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "14 Sept 2026",
+      "time": "01:32:36 pm",
+      "reference": "INV-156241",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX107917",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "14 Sept 2026",
+      "time": "01:31:47 pm",
+      "reference": "INV-107918",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX027212",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "25 Sept 2026",
+      "time": "12:33:47 pm",
+      "reference": "INV-027214",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    },
+    {
+      "id": "TRX006225",
+      "customer": "Walk-in customer",
+      "amount": 250000,
+      "paymentMethod": "Cash",
+      "status": "Completed",
+      "date": "14 Sept 2026",
+      "time": "01:30:06 pm",
+      "reference": "INV-006226",
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "quantity": 1,
+          "price": 250000,
+          "total": 250000
+        }
+      ]
+    }
+  ],
+  "returns": [
+    {
+      "id": "RET-325276",
+      "itemName": "swsw",
+      "quantity": 1,
+      "amount": 88,
+      "reason": "rtj",
+      "date": "25 Sept 2026",
+      "time": "12:38:45 pm",
+      "timestamp": "2026-09-25T11:38:45.276Z",
+      "status": "Returned",
+      "createdBy": 2
+    }
+  ],
+  "suppliers": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@adisl.com",
+      "password": "admin123",
+      "role": "Administrator"
+    },
+    {
+      "id": 1791194067739,
+      "name": "justin",
+      "email": "justin@gmail.com",
+      "password": "justin123",
+      "role": "Staff"
+    },
+    {
+      "id": 2,
+      "name": "Sales User",
+      "email": "sales@adisl.com",
+      "password": "sales123",
+      "role": "Staff"
+    }
+  ]
+}
